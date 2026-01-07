@@ -1,5 +1,5 @@
 let nomeJogador = "ikawaFPS";
-let xpJogador = -100;
+let xpJogador = 0;
 let rank;
 
 switch (true) {
@@ -34,8 +34,7 @@ switch (true) {
 
     default:
         rank = "Rank Inválido";
-        break;
-        
+        break;    
 }
 
 console.log("O Herói de nome " + nomeJogador + " está no nível de " + rank);
