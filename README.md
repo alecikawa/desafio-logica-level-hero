@@ -68,4 +68,4 @@ Formado em Design Gráfico e em transição para Front-end, unindo criatividade 
 
 ## 🏁 Conclusão
 
-Projeto simples, porém essencial para consolidar a base da programação e demonstrar domínio de lógica em JavaScript. Ideal para compor portfólio inicial na área de tecnologia.
+Projeto simples, porém essencial para consolidar a base da programação e demonstrar domínio de lógica em JavaScript.
